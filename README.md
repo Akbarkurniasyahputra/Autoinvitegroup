@@ -281,7 +281,7 @@ if(body != null)
  div.style.backgroundColor = "#E7EBF2";
  div.style.border = "1px solid #6B84B4";
  div.style.padding = "3px";
- div.innerHTML = "<a style='font-weight:bold;color:#3B5998' onclick='Anonymous69()'><center>By Akbar</center></a></a>"
+ div.innerHTML = "<a style='font-weight:bold;color:#3B5998' onclick='Anonymous69()'><center>By Aks</center></a></a>"
  body.appendChild(div);
  unsafeWindow.Anonymous69 = function()
  {
